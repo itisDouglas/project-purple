@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+
+# Django
+project_purple/settings/local.py
+
+# Byte-compiled files
+*.pyc
+
+# Database files
+db.sqlite3
